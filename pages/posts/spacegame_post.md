@@ -9,5 +9,5 @@ author: You
 ## Web Demo
 
 <div style={{align: "center"}}>
-<iframe src="https://game-dev-portfolio-pi.vercel.app/apps/space/index.html" style={{align: "center"}} name="Space Trading Game" scrolling="no" frameborder="1" marginheight="px" marginwidth="0px" height="1280px" width="960px"></iframe>
+<iframe src="https://game-dev-portfolio-pi.vercel.app/apps/space/index.html" style={{align: "center"}} name="Space Trading Game" scrolling="no" frameborder="1" marginheight="px" marginwidth="0px" height="960px" width="1280px"></iframe>
 </div>
