@@ -8,4 +8,4 @@ author: You
 
 ## Web Demo
 
-  <iframe src="https://game-dev-portfolio-pi.vercel.app/apps/space/index.html" style="border:0px #000000 none;" name="Game name" scrolling="no" frameborder="1" marginheight="px" marginwidth="320px" height="320px" width="480px"></iframe>
+<iframe src="https://game-dev-portfolio-pi.vercel.app/apps/space/index.html" style={{align: "center"}} name="Space Trading Game" scrolling="no" frameborder="1" marginheight="px" marginwidth="320px" height="320px" width="480px"></iframe>
