@@ -13,7 +13,7 @@ I've been hard at work on a brand new game! It's not ready for a demo yet, but I
 # The Basics
 
 <video width="320" height="240" controls>
-    <source src="../../public/videos/basics.mp4" type="video/mp4"></source>
+    <source src="../public/videos/basics.mp4" type="video/mp4"></source>
     Your browser does not support the video tag.
 </video> 
 
@@ -21,8 +21,10 @@ This is a clip simply showing some basics of the game. The game is a mix between
 
 *UI is placeholder graphics*
 
+# Shields
+
 <video width="320" height="240" controls>
-  <source src="../../public/videos/shields.mp4" type="video/mp4"></source>
+  <source src="../public/videos/shields.mp4" type="video/mp4"></source>
     Your browser does not support the video tag.
 </video> 
 
@@ -30,8 +32,10 @@ This is a clip more closely demonstraiting shields. The enemies will be knocked 
 
 *Background, UI and boarder are placeholder graphics*
 
+# Abilities: Chain Lightning
+
 <video width="320" height="240" controls>
-  <source src="../../public/videos/zapzap.mp4" type="video/mp4"></source>
+  <source src="../public/videos/zapzap.mp4" type="video/mp4"></source>
     Your browser does not support the video tag.
 </video> 
 
