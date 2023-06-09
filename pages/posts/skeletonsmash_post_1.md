@@ -53,3 +53,9 @@ This is a clip of my favourite ability: Chain Lightning! I'm a big sucker for th
 This clip is showing off the "Loot Boxes" mechanic I added, which gives enemies a tiny chance to drop a box of treasures! (Chance was highly increased to take this clip). The loot boxes are very very rare but the vast hoards of enemies make them a semi-regular occurrence. They drop an excessive amount of treasures (reduced from this test, but still a lot!) but must be hit with the ball itself, and will not be broken open by any abilities. There is also a treasure generating mechanic, where the game will create a series of varried loot items, each with their own value, based on the total value of loot the function is told to create. This is why the treasure chests drop a huge variety of different loot items, and although the different does not matter much to the player, the variety in loot makes getting the loot boxes very rewarding. In the future I plan to also have them drop free upgrade cards or, if I ever create a meta game, meta game unlocks. Note: The magnet effect that was used here was not final, it is easier to collect the treasures in the current version. 
 
 *Background, ball, paddle, UI and boarder are placeholder graphics*
+
+# Upgrade Cards and Abilities Sneak Peak
+
+<img src="../images/cardsPreview.png" width="640" height="480"></img>
+
+This is a quick image showing off the upgrade cards the player can purchase between levels! This screen is still a heavy work in progress and using lots of placeholder art (card art is AI generated, for example). In addition I plan to find a much nicer and more suiting font. But, nonetheless, this image should give you a good idea of what it's like buying upgrades. The "Abilities" on the side will increase their cost the more you have, and the either display upgrades are picked randomly. Some cards lack even placeholder art, but that's just how excited I am to show this.
