@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Skylar K Dev Blog',
     description: 'I\'m going to make games and you can\'t stop me.',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    image: '../images/UIupdate.png'
   }
 
   return (
