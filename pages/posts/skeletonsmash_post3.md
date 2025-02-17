@@ -1,6 +1,6 @@
 ---
 title: Skeleton Smashers - First Release!
-date: 2024/2/17
+date: 2025/2/17
 description: The early release version is now available!
 tag: app development
 author: You
